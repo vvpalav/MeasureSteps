@@ -39,6 +39,7 @@
         android:background="@drawable/round_button_shape"
         android:enabled="false"
         android:gravity="center"
+        android:textColor="@color/black"
         android:paddingBottom="10dp"
         android:paddingTop="10dp"
         android:text="@string/noOfSteps"
@@ -54,6 +55,7 @@
         android:layout_marginTop="28dp"
         android:background="@drawable/round_button_shape"
         android:enabled="false"
+        android:textColor="@color/black"
         android:gravity="center"
         android:paddingBottom="10dp"
         android:paddingTop="10dp"
@@ -69,6 +71,7 @@
         android:layout_alignLeft="@+id/stapesWalkedLabel"
         android:background="@drawable/round_button_shape"
         android:text="@string/start"
+        android:textColor="@color/black"
         android:textAppearance="?android:attr/textAppearanceMediumInverse"
         android:width="125dp" />
 
@@ -81,6 +84,7 @@
         android:layout_marginTop="31dp"
         android:background="@drawable/round_button_shape"
         android:text="@string/stop"
+        android:textColor="@color/black"
         android:textAppearance="?android:attr/textAppearanceMediumInverse"
         android:width="125dp" />
 

@@ -30,6 +30,7 @@
             android:background="@drawable/round_button_shape"
             android:gravity="center"
             android:padding="9dp"
+            android:textColor="@color/black"
             android:text="@string/empty_string"
             android:textAppearance="?android:attr/textAppearanceMedium" />
     </LinearLayout>
@@ -58,6 +59,7 @@
             android:gravity="center"
             android:padding="9dp"
             android:text="@string/empty_string"
+            android:textColor="@color/black"
             android:textAppearance="?android:attr/textAppearanceMedium" />
     </LinearLayout>
 
@@ -83,6 +85,7 @@
             android:layout_weight="0.5"
             android:background="@drawable/round_button_shape"
             android:gravity="center"
+            android:textColor="@color/black"
             android:padding="9dp"
             android:text="@string/empty_string"
             android:textAppearance="?android:attr/textAppearanceSmall" />
@@ -111,6 +114,7 @@
             android:background="@drawable/round_button_shape"
             android:gravity="center"
             android:padding="9dp"
+            android:textColor="@color/black"
             android:text="@string/empty_string"
             android:textAppearance="?android:attr/textAppearanceMedium" />
     </LinearLayout>
@@ -138,6 +142,7 @@
             android:background="@drawable/round_button_shape"
             android:gravity="center"
             android:padding="9dp"
+            android:textColor="@color/black"
             android:text="@string/empty_string"
             android:textAppearance="?android:attr/textAppearanceMedium" />
     </LinearLayout>
@@ -165,6 +170,7 @@
             android:background="@drawable/round_button_shape"
             android:gravity="center"
             android:padding="9dp"
+            android:textColor="@color/black"
             android:text="@string/empty_string"
             android:textAppearance="?android:attr/textAppearanceMedium" />
     </LinearLayout>
@@ -192,6 +198,7 @@
             android:background="@drawable/round_button_shape"
             android:gravity="center"
             android:padding="9dp"
+            android:textColor="@color/black"
             android:text="@string/empty_string"
             android:textAppearance="?android:attr/textAppearanceMedium" />
     </LinearLayout>
@@ -219,6 +226,7 @@
             android:background="@drawable/round_button_shape"
             android:gravity="center"
             android:padding="9dp"
+            android:textColor="@color/black"
             android:text="@string/empty_string"
             android:textAppearance="?android:attr/textAppearanceMedium" />
     </LinearLayout>
@@ -246,6 +254,7 @@
             android:background="@drawable/round_button_shape"
             android:gravity="center"
             android:padding="9dp"
+            android:textColor="@color/black"
             android:text="@string/empty_string"
             android:textAppearance="?android:attr/textAppearanceMedium" />
     </LinearLayout>
@@ -273,6 +282,7 @@
             android:background="@drawable/round_button_shape"
             android:gravity="center"
             android:padding="9dp"
+            android:textColor="@color/black"
             android:text="@string/empty_string"
             android:textAppearance="?android:attr/textAppearanceMedium" />
     </LinearLayout>
@@ -300,6 +310,7 @@
             android:background="@drawable/round_button_shape"
             android:gravity="center"
             android:padding="9dp"
+            android:textColor="@color/black"
             android:text="@string/empty_string"
             android:textAppearance="?android:attr/textAppearanceMedium" />
     </LinearLayout>

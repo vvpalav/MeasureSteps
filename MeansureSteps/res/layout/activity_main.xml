@@ -13,6 +13,7 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:layout_marginTop="27dp"
+        android:textColor="@color/black"
         android:background="@drawable/round_button_shape"
         android:text="@string/getReport" />
 
@@ -23,6 +24,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="132dp"
+        android:textColor="@color/black"
         android:background="@drawable/round_button_shape"
         android:text="@string/measureSteps" />
 
