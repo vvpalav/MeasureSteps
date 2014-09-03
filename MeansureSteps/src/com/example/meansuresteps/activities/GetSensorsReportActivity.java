@@ -19,6 +19,7 @@ import com.example.meansuresteps.R;
 public class GetSensorsReportActivity extends Activity implements
 		SensorEventListener {
 
+	
 	private SensorManager mSensorManager;
 	private AudioManager mAudioManager;
 	private BroadcastReceiver receiver;
