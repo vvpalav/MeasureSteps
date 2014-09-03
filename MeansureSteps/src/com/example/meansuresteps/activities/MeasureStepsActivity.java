@@ -12,8 +12,7 @@ import com.example.meansuresteps.R;
 import com.example.meansuresteps.helpers.onLocationChangedInterface;
 import com.example.meansuresteps.services.LocationUpdateService;
 
-public class MeasureStepsActivity extends Activity implements
-		onLocationChangedInterface {
+public class MeasureStepsActivity extends Activity implements onLocationChangedInterface {
 
 	private int totalStepsWalked;
 	private double totalDistInMiles;
